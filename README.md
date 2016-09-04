@@ -9,8 +9,8 @@
   - https://leetcode.com/problemset/algorithms/ 
 
 ### Other useful resources
-- Miller, B. Ranum, D. (2011). Problem Solving with Algorithms and Data Structures Using Python. 
-  - 2nd Edition. Runestone Interactive. http://interactivepython.org/runestone/static/pythonds/index.html  
+- Miller, B. Ranum, D. (2011). Problem Solving with Algorithms and Data Structures Using Python. 2nd Edition. 
+  - http://interactivepython.org/runestone/static/pythonds/index.html  
 - GeeksforGeeks (2015). GeeksforGeeks – A Computer Science Portal for Geeks. 
   - http://www.geeksforgeeks.org/ 
 
