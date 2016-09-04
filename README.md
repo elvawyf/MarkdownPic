@@ -1,7 +1,6 @@
 # Notes
-===
 
-## CS231n
+# CS231n
 
 ### Resources mentioned in the blog post
 - Hughes, J et al. (2015). TopCoder. 
@@ -21,7 +20,7 @@
 
 ===
 
-## Machine Learning for Trading
+# Machine Learning for Trading
 
 ### Resources
 
