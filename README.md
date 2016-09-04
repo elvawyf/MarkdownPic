@@ -40,7 +40,6 @@ CS7641 Machine Learning, taught by Charles Isbell and Michael Littman
   - https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html
 - Machine Learning, Tom Mitchell, 1997.
   - http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html 
-
 - Integrated architectures for learning, planning, and reacting based on approximating dynamic programming. In Proceedings of the Seventh International Conference on Machine Learning, Austin, TX, 1990. Richard S. Sutton. 
   - https://webdocs.cs.ualberta.ca/~sutton/papers/sutton-90.pdf
 - Lecture 8: Integrating Learning and Planning
