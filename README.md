@@ -29,3 +29,8 @@ CS7641 Machine Learning, taught by Charles Isbell and Michael Littman
   - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 - A Painless Q-Learning Tutorial 
   - http://mnemstudio.org/path-finding-q-learning-tutorial.htm
+  
+
+
+- Sutton and Barto. Reinforcement Learning: An Introduction. MIT Press, Cambridge, MA, 1998. 
+  - https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html
