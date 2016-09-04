@@ -43,4 +43,5 @@ CS7641 Machine Learning, taught by Charles Isbell and Michael Littman
   - https://webdocs.cs.ualberta.ca/~sutton/papers/sutton-90.pdf
 - Lecture 8: Integrating Learning and Planning
   - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/dyna.pdf 
-  
+- Tammer Kamel, Quandl - https://www.quandl.com/
+
