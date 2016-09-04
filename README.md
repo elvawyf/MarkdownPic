@@ -22,7 +22,7 @@
 
 # Machine Learning for Trading
 
-### Resources
+### 03-06 Q-Learning
 
 CS7641 Machine Learning, taught by Charles Isbell and Michael Littman
 - Watch for free on Udacity (mini-course 3, lessons RL 1 - 4)   
@@ -34,7 +34,7 @@ CS7641 Machine Learning, taught by Charles Isbell and Michael Littman
 - A Painless Q-Learning Tutorial 
   - http://mnemstudio.org/path-finding-q-learning-tutorial.htm
 
-### RL
+### 03-07 Dyna
 - Reinforcement Learning: An Introduction. MIT Press, Cambridge, MA, 1998. Sutton and Barto. 
   - https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html
 - Machine Learning, Tom Mitchell, 1997.
