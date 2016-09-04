@@ -13,9 +13,10 @@
 
 ===
 
-Resources
+### Resources
+
 CS7641 Machine Learning, taught by Charles Isbell and Michael Littman
 - Watch for free on Udacity (mini-course 3, lessons RL 1 - 4) https://classroom.udacity.com/courses/ud262/lessons/367378584/concepts/3675485950923
 - the course as part of the OMSCS program http://www.omscs.gatech.edu/cs-7641-machine-learning/
-RL course by David Silver http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
-A Painless Q-Learning Tutorial http://mnemstudio.org/path-finding-q-learning-tutorial.htm
+- RL course by David Silver http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+- A Painless Q-Learning Tutorial http://mnemstudio.org/path-finding-q-learning-tutorial.htm
