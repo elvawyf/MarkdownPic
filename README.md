@@ -1,7 +1,4 @@
-# mdPics
-
-Markdown Pic
-
+# Notes
 
 ### Resources mentioned in the blog post
 - Hughes, J et al. (2015). TopCoder. [online]. Available from: https://www.topcoder.com/ [Accessed: 21/12/2015]
