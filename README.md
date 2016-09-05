@@ -17,6 +17,10 @@
   - http://www.geeksforgeeks.org/ 
 
 
+### ConvNetJS CIFAR-10 demo
+- http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html
+
+
 
 ===
 
