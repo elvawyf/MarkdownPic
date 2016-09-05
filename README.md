@@ -49,3 +49,12 @@ CS7641 Machine Learning, taught by Charles Isbell and Michael Littman
   - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/dyna.pdf 
 - Tammer Kamel, Quandl - https://www.quandl.com/
 
+
+
+# P4
+install pygame
+https://conda.anaconda.org/kne
+```
+conda install -c https://conda.anaconda.org/kne pygame
+brew install sdl sdl_ttf sdl_image sdl_mixer portmidi
+```
