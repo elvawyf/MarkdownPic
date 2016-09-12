@@ -21,6 +21,10 @@
 - http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html
 
 
+### UFLDL Tutorial
+- http://deeplearning.stanford.edu/tutorial/
+
+
 
 ===
 
